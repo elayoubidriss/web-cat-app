@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "name": "Computer",
+      "price": "9999999999999999",
+      "quantity": "102",
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": "103",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 300,
+      "quantity": "1022",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "phone",
+      "price": "1000000",
+      "quantity": "3",
+      "selected": true,
+      "available": false,
+      "id": 13
+    },
+    {
+      "name": "TV",
+      "price": "10000005",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 14
+    }
+  ]
+}
